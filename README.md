@@ -2,7 +2,7 @@
 
 Computer Engineering graduate (TED University, 2026) focused on backend development with Java and Spring Boot.
 
-- 8-month long-term software intern at Turkish Aerospace (TUSAŞ), PLM Integration team: Spring Boot services, JUnit/Mockito unit & integration tests, REST API testing, PostgreSQL
+- 6-month long-term software intern at Turkish Aerospace (TUSAŞ), PLM Integration team: Spring Boot services, JUnit/Mockito unit & integration tests, REST API testing, PostgreSQL
 - Previous internships: TUSAŞ Avionics Software (C#/WPF flight-data visualization), Ard Bilişim (ASP.NET Core, Angular)
 - Research on visual attention to AI-generated vs. real images, accepted for presentation at IEEE ICHORA 2026
 

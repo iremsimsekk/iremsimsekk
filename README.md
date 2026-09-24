@@ -1,16 +1,13 @@
-## Hi there 👋
+## İrem Şimşek
 
-<!--
-**iremsimsekk/iremsimsekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate (TED University, 2026) focused on backend development with Java and Spring Boot.
 
-Here are some ideas to get you started:
+- 8-month long-term software intern at Turkish Aerospace (TUSAŞ), PLM Integration team: Spring Boot services, JUnit/Mockito unit & integration tests, REST API testing, PostgreSQL
+- Previous internships: TUSAŞ Avionics Software (C#/WPF flight-data visualization), Ard Bilişim (ASP.NET Core, Angular)
+- Research on visual attention to AI-generated vs. real images, accepted for presentation at IEEE ICHORA 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** Java · Spring Boot · Spring Data JPA · JUnit · Mockito · PostgreSQL · REST · Git · C# · .NET · Angular · Flutter · Python
+
+**Featured:** [Patify](https://github.com/iremsimsekk/patify_app) (Flutter + Spring Boot) · [Dog Coffee Game](https://github.com/iremsimsekk/CAFE-GAME-) (Unity/C#)
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/irem-%C5%9Fim%C5%9Fek-080893270/) · irem.simsek163@gmail.com
